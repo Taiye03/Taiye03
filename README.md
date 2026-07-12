@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Taiye Olomu 👋<br><br>I'm a recent Master's in Computer Science graduate, passionate about<br>Software Engineering and Artificial Intelligence."<br><br>🌸 Outside of technology, I love:<br>-  🗣️ Learning new languages<br>- 🎤 Singing and enjoying music
+Hello, I'm Taiye Olomu 👋<br><br>I'm a recent Master's in Computer Science graduate, passionate about<br>Software Engineering and Artificial Intelligence.<br><br>🌸 Outside of technology, I love:<br>-  🗣️ Learning new languages<br>- 🎤 Singing and enjoying music
 
 
 # 💻 Tech Stack:
