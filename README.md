@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Taiye Olomu <br><br>A recent Master's in Computer Science graduate, passionate about<br>Software Engineering and Artificial Intelligence.<br><br>🌸 Outside of tech, I love :<br>- 🗣️ Learning new languages<br>- 🎤 Singing and enjoying music
+Hello, I'm Taiye Olomu, a Software Engineer with an M.S. in Computer and Information Sciences.<br><br>I specialize in full-stack development with a focus on backend systems, and I'm particularly interested in system reliability, understanding *why* things break, not just building features that work.<br><br>🌸Outside of engineering, I enjoy learning new languages and singing.
 
 
 
