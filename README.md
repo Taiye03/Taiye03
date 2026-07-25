@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I'm Taiye Olomu, a Software Engineer with an M.S. in Computer and Information Sciences.<br><br>I specialize in full-stack development with a focus on backend systems, and I'm particularly interested in system reliability, understanding *why* things break, not just building features that work.<br><br>🌸Outside of engineering, I enjoy learning new languages and singing.
-
+Hello, I'm Taiye Olomu, a Software Engineer with an M.S. in Computer and Information Sciences.<br><br>I enjoy building reliable software systems and exploring backend engineering, and I'm particularly interested in system reliability, understanding *why* things break, not just building features that work.
 
 
 # 💻 Tech Stack:
