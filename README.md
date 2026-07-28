@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Taiye Olomu, a Software Engineer with an M.S. in Computer and Information Sciences.<br><br>I enjoy building reliable software systems. I'm particularly interested in system reliability, understanding *why* things break, not just building features that work.
+Hello, I'm Taiye Olomu, a Software Engineer with an M.S. in Computer and Information Sciences.<br><br> I'm particularly interested in system reliability, understanding *why* things break, not just building features that work.
 
 
 # 💻 Tech Stack:
