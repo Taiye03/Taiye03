@@ -102,12 +102,6 @@ I'm actively getting involved in open-source development, working with existing 
 
 ---
 
-## 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=Taiye03&color=blueviolet&style=for-the-badge)
-
----
-
 ## 📫 Let's Connect
 
 I'm open to opportunities in software engineering, backend development, and applied AI. I'm also interested in collaborating on open-source projects and building meaningful technology.
