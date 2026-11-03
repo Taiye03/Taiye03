@@ -12,7 +12,8 @@ I build backend systems and AI-powered applications, with a particular interest 
 
 ## 🚀 Featured Projects
 
-### 🎓 LearnWise AI — AI-Powered Math Tutoring Platform
+### 🎓 [LearnWise AI — AI-Powered Math Tutoring Platform](https://github.com/Taiye03/learnwise-ai)
+
 **Status:** Active Development
 
 An AI-powered educational platform designed to help students develop mathematical reasoning rather than simply providing answers.
@@ -44,6 +45,7 @@ A machine learning research project investigating classification performance, mo
 I'm actively getting involved in open-source development, working with existing codebases, investigating issues, and collaborating with maintainers.
 
 ### 🌱 EcoTrace
+
 **Status:** Contribution in Progress
 
 - Working on issue #183 in the EcoTrace repository.
@@ -90,7 +92,19 @@ I'm actively getting involved in open-source development, working with existing 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiye03&show_icons=true&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Taiye03&theme=midnight-purple&hide_border=false)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=Taiye03&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -104,5 +118,4 @@ I'm open to opportunities in software engineering, backend development, and appl
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Always learning. Always building. Always improving.*
