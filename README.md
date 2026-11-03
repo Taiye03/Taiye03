@@ -111,5 +111,3 @@ I'm open to opportunities in software engineering, backend development, and appl
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Taiye03)
 
 ---
-
-*Always learning. Always building. Always improving.*
