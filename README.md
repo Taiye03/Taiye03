@@ -1,6 +1,6 @@
 # Hi, I'm Taiye Olomu 👋
 
-### Software Engineer · Backend Systems · Applied AI
+### Software Engineer · Full-Stack Development · Applied AI
 
 I'm a Software Engineer with an M.S. in Computer and Information Sciences from Dakota State University.
 
