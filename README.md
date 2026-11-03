@@ -90,7 +90,7 @@ I'm actively getting involved in open-source development, working with existing 
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Taiye03&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiye03&show_icons=true&theme=midnight-purple)
 
 ---
 
