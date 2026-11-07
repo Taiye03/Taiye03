@@ -2,9 +2,8 @@
 
 ### Software Engineer · Full-Stack Development · Applied AI
 
-I'm a Software Engineer with an M.S. in Computer and Information Sciences from Dakota State University.
-
-I build backend systems and AI-powered applications, with a particular interest in system reliability and understanding *why* things break, not just building features that work.
+I'm a Software Engineer with an M.S. in Computer and Information Sciences.
+I build systems and AI-powered applications, with a particular interest in system reliability and understanding *why* things break, not just building features that work.
 
 🔎 **Open to Software Engineering, Backend, and Applied AI opportunities · Open to relocation**
 
